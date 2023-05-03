@@ -1,9 +1,3 @@
-# Python - Automações no Office
+# Python - Automações
 
-Aula da Hashtag Programação.
-
-Utilizar preferencialmente o Jupter.
-
-Enviar arquivo pelo Outlook com Python
-
-INSTRUTOR : Lira. 
+https://www.kaggle.com/
